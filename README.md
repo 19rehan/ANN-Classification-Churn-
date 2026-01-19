@@ -58,3 +58,4 @@ The model is built using **TensorFlow/Keras** and demonstrates the end-to-end wo
    git clone https://github.com/your-username/ann-customer-churn.git
    cd ann-customer-churn
 
+pip install -r requirements.txt
