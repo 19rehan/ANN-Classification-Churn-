@@ -77,4 +77,3 @@ This README balances **professional clarity** with **GitHub aesthetics** (emojis
 
 
 ---
-Would you like me to also draft a **requirements.txt** file so your repo looks complete and ready-to-run?
