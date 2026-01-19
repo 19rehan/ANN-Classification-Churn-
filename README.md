@@ -32,3 +32,29 @@ The model is built using **TensorFlow/Keras** and demonstrates the end-to-end wo
 
 ## 📂 Project Structure
 
+
+
+
+
+---
+
+## ⚙️ Model Architecture
+- **Input Layer**: Features after preprocessing  
+- **Hidden Layers**: Dense layers with ReLU activation + Dropout for regularization  
+- **Output Layer**: Single neuron with Sigmoid activation (binary classification)  
+
+---
+
+## 📊 Results
+- **Accuracy**: ~85% (depending on dataset & tuning)  
+- **Confusion Matrix**: Shows correct vs. incorrect predictions  
+- **Precision/Recall/F1**: Balanced evaluation for churn prediction  
+
+---
+
+## ▶️ How to Run
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/ann-customer-churn.git
+   cd ann-customer-churn
+
