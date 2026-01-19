@@ -66,3 +66,12 @@ python src/train.py
 
 
 python src/evaluate.py
+
+
+
+
+---
+
+This README balances **professional clarity** with **GitHub aesthetics** (emojis, structure, code blocks). It’s recruiter-friendly and shows you understand both the technical and business side of churn prediction.  
+
+Would you like me to also draft a **requirements.txt** file so your repo looks complete and ready-to-run?
